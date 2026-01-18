@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Applying ML models effectively to real-world datasets and building end-to-end GenAI workflows.**
 
-- ⚡ Fun fact **I contributed to my Formula Student team’s 1st place win in simulation development presentation — an experience I’m really proud of.**
+- ⚡ Fun fact **I contributed to my Formula Student team’s 1st place win in simulation development presentation; an experience I’m really proud of.**
 
 - 📫 How to reach me **Yomna.hachem@gmail.com**
 
